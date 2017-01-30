@@ -9,5 +9,8 @@
 import UIKit
 
 class RatingControl: UIStackView {
-
+    //MARK: Initialization
+    override init(frame: CGRect) {
+        <#code#>
+    }
 }
