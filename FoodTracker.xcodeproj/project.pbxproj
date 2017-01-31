@@ -14,6 +14,7 @@
 		49125B411E32A2A600227842 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49125B3F1E32A2A600227842 /* LaunchScreen.storyboard */; };
 		49125B4C1E32A2A600227842 /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49125B4B1E32A2A600227842 /* FoodTrackerTests.swift */; };
 		49F375911E3C1C5900217EF8 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F375901E3C1C5900217EF8 /* RatingControl.swift */; };
+		49F375931E41130E00217EF8 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F375921E41130E00217EF8 /* Meal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		49125B4B1E32A2A600227842 /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		49125B4D1E32A2A600227842 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49F375901E3C1C5900217EF8 /* RatingControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
+		49F375921E41130E00217EF8 /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				49125B361E32A2A600227842 /* AppDelegate.swift */,
 				49125B381E32A2A600227842 /* ViewController.swift */,
 				49F375901E3C1C5900217EF8 /* RatingControl.swift */,
+				49F375921E41130E00217EF8 /* Meal.swift */,
 				49125B3A1E32A2A600227842 /* Main.storyboard */,
 				49125B3D1E32A2A600227842 /* Assets.xcassets */,
 				49125B3F1E32A2A600227842 /* LaunchScreen.storyboard */,
@@ -204,6 +207,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49F375931E41130E00217EF8 /* Meal.swift in Sources */,
 				49125B391E32A2A600227842 /* ViewController.swift in Sources */,
 				49F375911E3C1C5900217EF8 /* RatingControl.swift in Sources */,
 				49125B371E32A2A600227842 /* AppDelegate.swift in Sources */,
